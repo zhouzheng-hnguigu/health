@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45bdc212-d001-4954-9294-bd9fd812adf3" name="Default Changelist" comment="fdsfdsfs">
+      <change afterPath="$PROJECT_DIR$/health-parent/health-api/target/classes/com/hnguigu/health/domain/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-api/target/classes/com/hnguigu/health/domain/MemberExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-api/target/classes/com/hnguigu/health/domain/MemberExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-api/target/classes/com/hnguigu/health/domain/MemberExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-api/target/classes/com/hnguigu/health/domain/MemberExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-api/target/classes/com/hnguigu/health/service/MemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-member-service/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-member-service/target/classes/com/hnguigu/health/HealthMemberServiceApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-member-service/target/classes/com/hnguigu/health/mapper/MemberMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-member-service/target/classes/com/hnguigu/health/service/MemberServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-member-service/target/classes/mappers/MemberMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-member-web/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-member-web/target/classes/com/hnguigu/health/HealthMemberWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health-member-web/target/classes/com/hnguigu/health/web/controller/MemberController.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="health_1807ja@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="health_1807ja@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="health_1807ja@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="health_1807ja: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1SanjugCTas4ccBL3lpxfWeYT7R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Course Workspace\1807JA\health-workspace\health-parent\health-member-service\src\main\resources\mappers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Course Workspace\1807JA\health-workspace\health-parent\health-member-web\src\main\java\com\hnguigu\health\web\controller" />
+      <recent name="E:\Course Workspace\1807JA\health-workspace\health-parent\health-member-web\src\main\resources" />
+      <recent name="E:\Course Workspace\1807JA\health-workspace\health-parent\health-member-service\src\main\java\com\hnguigu\health\mapper" />
+      <recent name="E:\Course Workspace\1807JA\health-workspace\health-parent\health-member-service\src\main\java\com\hnguigu\health\service" />
+      <recent name="E:\Course Workspace\1807JA\health-workspace\health-parent\health-api\src\main\java\com\hnguigu\health\service" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="health-member-web" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HealthMemberWebApplication">
+    <configuration name="HealthMemberServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="health-member-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hnguigu.health.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hnguigu.health.HealthMemberServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthMemberWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="health-member-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hnguigu.health.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hnguigu.health.HealthMemberWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthUserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="health-member-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hnguigu.health.HealthUserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthUserWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="health-member-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hnguigu.health.HealthUserWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HealthMemberWebApplication" />
+        <item itemvalue="Spring Boot.HealthMemberServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.21308815" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45bdc212-d001-4954-9294-bd9fd812adf3" name="Default Changelist" comment="" />
+      <created>1571810712702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571810712702</updated>
+      <workItem from="1571810715664" duration="5847000" />
+      <workItem from="1571817443609" duration="4615000" />
+      <workItem from="1571877421691" duration="2158000" />
+      <workItem from="1571892388817" duration="1719000" />
+      <workItem from="1571899039114" duration="1248000" />
+      <workItem from="1571964301369" duration="4795000" />
+      <workItem from="1571983653854" duration="1451000" />
+    </task>
+    <task id="LOCAL-00001" summary="fdsfdsfs">
+      <created>1571973710641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571973710641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fdsfdsfs" />
+    <option name="LAST_COMMIT_MESSAGE" value="fdsfdsfs" />
+  </component>
+</project>
